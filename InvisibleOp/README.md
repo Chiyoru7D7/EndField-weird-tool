@@ -2,6 +2,8 @@
 
 Arknights: Endfield shader-hunting mod. Skips GPU draw calls for operators, bosses, icons, and VFX using EFMI (3dmigoto-based). 131 hunted shader hashes across 6 categories.
 
+> **Current compatibility:** Only tested with operator **洛茜 (Luo Xi)** and boss **罗丹 (Luo Dan)**. Other characters may not be fully covered. Contributions welcome for additional character hashes.
+
 ## How It Works
 
 EFMI intercepts DirectX draw calls. When a shader hash matches, `handling = skip` tells the GPU: "don't draw this." Each character uses multiple materials — body, hair, weapon, shadow, VFX — each needing its own hash.
