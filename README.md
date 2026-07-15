@@ -37,7 +37,6 @@ These tools all build on the same foundation. Understanding one helps with the r
 All mods use EFMI runtime injection. Arknights: Endfield uses **ACE kernel-level anti-cheat**. See [official policy](https://endfield.gryphline.com/zh-tw/news/8900).
 
 - Only use on alt accounts
-- Disable all mods during multiplayer/co-op
 - Never post modded screenshots tied to your account
 - Accept permanent ban as possible outcome
 
