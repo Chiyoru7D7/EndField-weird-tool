@@ -5,6 +5,8 @@
 Arknights: Endfield shader-hunting mod. Skips GPU draw calls for operators, bosses, icons, and VFX using EFMI (3dmigoto-based). 131 hunted shader hashes across 6 categories.
 
 > **Current compatibility:** Only tested with operator **洛茜 (Rossi)** and boss **罗丹 (Rhodagn)**. Other characters may not be fully covered. Contributions welcome for additional character hashes.
+>
+> **⚠️ Known issue:** 65 of 131 hashes (all VFX categories) were imported via frame analysis diff, not manual hunting. Some of these hashes are **shared between characters and environment objects** (particles, terrain, props). You may see unintended objects disappear — especially environmental effects, scenery elements, and non-target NPCs. To fix, identify and remove the problematic hash from `mod.ini`.
 
 ## How It Works
 
