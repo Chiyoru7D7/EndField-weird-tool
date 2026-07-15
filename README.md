@@ -1,5 +1,7 @@
 # EndField Weird Tool
 
+[中文版](README_CN.md) | English
+
 EFMI/3dmigoto shader-hunting mods for Arknights: Endfield. Weird tools for weird needs.
 
 ## Tools
@@ -32,12 +34,22 @@ These tools all build on the same foundation. Understanding one helps with the r
 
 ## Safety
 
-All mods use EFMI runtime injection. Arknights: Endfield uses **ACE kernel-level anti-cheat**. See [ban risk assessment](https://endfield.gryphline.com/zh-tw/news/8900).
+All mods use EFMI runtime injection. Arknights: Endfield uses **ACE kernel-level anti-cheat**. See [official policy](https://endfield.gryphline.com/zh-tw/news/8900).
 
 - Only use on alt accounts
 - Disable all mods during multiplayer/co-op
 - Never post modded screenshots tied to your account
 - Accept permanent ban as possible outcome
+
+## License & Disclaimer
+
+This mod is **open source and free** for learning and exchange purposes only.
+
+By using this mod or any derivative work, you agree to be bound by all terms of this agreement. If you do not agree, you must immediately stop using it.
+
+**You may NOT:**
+- Discuss, mention, or share any content related to this mod on **森空岛 (Skland)**
+- Discuss, mention, or share any content related to this mod in any official Arknights / Hypergryph channels across all platforms (including but not limited to Bilibili, Weibo), including comment sections, danmaku, posts, and any interactive areas under official announcements, news, or videos
 
 ## Setup
 
