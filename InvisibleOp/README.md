@@ -1,5 +1,7 @@
 # InvisibleOp v1.1 — Operator & Boss Invisibility Mod
 
+[中文版](README_CN.md) | English
+
 Arknights: Endfield shader-hunting mod. Skips GPU draw calls for operators, bosses, icons, and VFX using EFMI (3dmigoto-based). 131 hunted shader hashes across 6 categories.
 
 > **Current compatibility:** Only tested with operator **洛茜 (Rossi)** and boss **罗丹 (Rhodagn)**. Other characters may not be fully covered. Contributions welcome for additional character hashes.
