@@ -26,11 +26,9 @@ These tools all build on the same foundation. Understanding one helps with the r
 
 ## Planned
 
-- [ ] **NoOutline** — remove character outlines / rim lighting (useful for screenshots, machinima)
-- [ ] **NoEnvironment** — selective environment simplification (remove fog, particles, grass for visibility)
-- [ ] **HuntHelper** — auto-log hashes during gameplay, skip manual clipboard cycling
-- [ ] **FrameDiff GUI** — visual diff tool for frame analysis dumps instead of PowerShell
-- [ ] **AutoDeploy** — watch `mod.ini` changes, auto-copy to EFMI Mods folder on save
+- [ ] **Weird Tool GUI** — all-in-one desktop app: mod manager, frame diff viewer, shader hunter helper, one-click deploy
+- [ ] **Model Swap** — import custom 3D models, replace in-game character/enemy models via buffer override
+- [ ] **Auto Deploy** — watch repo file changes, auto-sync to EFMI Mods folder, hot-reload on save
 
 ## Safety
 
