@@ -2,7 +2,7 @@
 
 [English](README.md) | 中文版
 
-基于 EFMI/3dmigoto 的明日方舟：终末地 shader-hunting 模组。奇怪工具，奇怪需求。
+基于 EFMI/3dmigoto 的明日方舟：终末地 shader-hunting 模组。
 
 ## 现有工具
 
